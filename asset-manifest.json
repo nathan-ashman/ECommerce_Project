@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ECommerce_Project/static/css/main.a43e2ddf.css",
-    "main.js": "/ECommerce_Project/static/js/main.7a5a3ae0.js",
-    "static/js/787.5f28c2de.chunk.js": "/ECommerce_Project/static/js/787.5f28c2de.chunk.js",
-    "static/media/hero4.png": "/ECommerce_Project/static/media/hero4.d02d6d2baf046ba16e25.png",
-    "static/media/b4.jpg": "/ECommerce_Project/static/media/b4.d4973636195481212099.jpg",
-    "static/media/b18.jpg": "/ECommerce_Project/static/media/b18.e0d6bcaf42b430fde405.jpg",
-    "static/media/b10.jpg": "/ECommerce_Project/static/media/b10.a08e172c86210ae63dad.jpg",
-    "static/media/b17.jpg": "/ECommerce_Project/static/media/b17.2da9a940b676cf8eb0f5.jpg",
-    "static/media/b2.jpg": "/ECommerce_Project/static/media/b2.143e491242b908d2e1fa.jpg",
-    "static/media/b7.jpg": "/ECommerce_Project/static/media/b7.2af5c7833ccb4dec437f.jpg",
-    "index.html": "/ECommerce_Project/index.html",
-    "main.a43e2ddf.css.map": "/ECommerce_Project/static/css/main.a43e2ddf.css.map",
-    "main.7a5a3ae0.js.map": "/ECommerce_Project/static/js/main.7a5a3ae0.js.map",
-    "787.5f28c2de.chunk.js.map": "/ECommerce_Project/static/js/787.5f28c2de.chunk.js.map"
+    "main.css": "/nathan-ashman/ECommerce_Project/static/css/main.1fd70375.css",
+    "main.js": "/nathan-ashman/ECommerce_Project/static/js/main.25beabaf.js",
+    "static/js/787.5f28c2de.chunk.js": "/nathan-ashman/ECommerce_Project/static/js/787.5f28c2de.chunk.js",
+    "static/media/hero4.png": "/nathan-ashman/ECommerce_Project/static/media/hero4.d02d6d2baf046ba16e25.png",
+    "static/media/b4.jpg": "/nathan-ashman/ECommerce_Project/static/media/b4.d4973636195481212099.jpg",
+    "static/media/b18.jpg": "/nathan-ashman/ECommerce_Project/static/media/b18.e0d6bcaf42b430fde405.jpg",
+    "static/media/b10.jpg": "/nathan-ashman/ECommerce_Project/static/media/b10.a08e172c86210ae63dad.jpg",
+    "static/media/b17.jpg": "/nathan-ashman/ECommerce_Project/static/media/b17.2da9a940b676cf8eb0f5.jpg",
+    "static/media/b2.jpg": "/nathan-ashman/ECommerce_Project/static/media/b2.143e491242b908d2e1fa.jpg",
+    "static/media/b7.jpg": "/nathan-ashman/ECommerce_Project/static/media/b7.2af5c7833ccb4dec437f.jpg",
+    "index.html": "/nathan-ashman/ECommerce_Project/index.html",
+    "main.1fd70375.css.map": "/nathan-ashman/ECommerce_Project/static/css/main.1fd70375.css.map",
+    "main.25beabaf.js.map": "/nathan-ashman/ECommerce_Project/static/js/main.25beabaf.js.map",
+    "787.5f28c2de.chunk.js.map": "/nathan-ashman/ECommerce_Project/static/js/787.5f28c2de.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a43e2ddf.css",
-    "static/js/main.7a5a3ae0.js"
+    "static/css/main.1fd70375.css",
+    "static/js/main.25beabaf.js"
   ]
 }
