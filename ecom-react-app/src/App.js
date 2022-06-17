@@ -11,14 +11,14 @@ import SeasonalSales from './components/SeasonalSales';
 function App() {
   return (
     <>
-      <Header/>
-      <Hero/>
-      <Features/>
-      <Products/>
-      <Banner/>
-      <NewProducts/>
-      <CTASales/>
-      <SeasonalSales/>
+      <Header />
+      <Hero />
+      <Features />
+      <Products />
+      <Banner />
+      <NewProducts />
+      <CTASales />
+      <SeasonalSales />
     </>
   );
 }
